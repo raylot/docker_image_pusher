@@ -4,5 +4,5 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-dify/dify
-infiniflow/ragflow
+#dify/dify
+infiniflow/ragflow:v0.17.2
